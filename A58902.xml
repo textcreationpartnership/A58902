@@ -1,0 +1,725 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A helpe to the willing soul, or, The communicants counsellor being a plaine and familiar discourse upon sundry maine truths, both doctrinall and practicall, requisite to be known, understood and observed by every Christian before his approach to the Lords table : composed mostly in reference to the rules and directions concerning sacramentall knowledge laid down in an ordinance of both Houses of Parliament of the 20 of October, 1645 / by Henry Searle ; for the benefit and edification of the inhabitants of Aldeburgh in Suffolk.</title>
+            <author>Searle, Henry, b. 1616.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58902</idno>
+            <idno type="STC">Wing S2203</idno>
+            <idno type="STC">ESTC R15097</idno>
+            <idno type="EEBO-CITATION">13593415</idno>
+            <idno type="OCLC">ocm 13593415</idno>
+            <idno type="VID">100685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 802:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A helpe to the willing soul, or, The communicants counsellor being a plaine and familiar discourse upon sundry maine truths, both doctrinall and practicall, requisite to be known, understood and observed by every Christian before his approach to the Lords table : composed mostly in reference to the rules and directions concerning sacramentall knowledge laid down in an ordinance of both Houses of Parliament of the 20 of October, 1645 / by Henry Searle ; for the benefit and edification of the inhabitants of Aldeburgh in Suffolk.</title>
+                  <author>Searle, Henry, b. 1616.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.C. for John Bellamy ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100685:1" rendition="simple:additions"/>
+            <pb facs="tcp:100685:1" rendition="simple:additions"/>
+            <p>A HELPE TO THE <hi>WILLING SO<g ref="char:V">Ʋ</g>L,</hi> OR <hi>The Communicants Counſellor.</hi> BEING A plaine and familiar Diſcourſe upon ſundry maine Truths, both <hi>Doctrinall</hi> and <hi>Practicall,</hi> requiſite to be known, underſtood and obſerved by every Chriſtian, before his approach to the Lords Table. Compoſed moſtly in reference to the <hi>Rules</hi> and <hi>Directions</hi> concerning <hi>Sacramentall knowledge;</hi> laid down in an Ordinance of both Houſes of <hi>PARLIAMENT</hi> of the 20 of <hi>October,</hi> 1645.</p>
+            <p>
+               <hi>By</hi> HENRY SEARLE.</p>
+            <p>For the benefit and edification of the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Aldeburgb</hi> in <hi>Suffolk.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Happy is the man that findeth Wiſdome, and the man that getteth underſtanding,</hi>
+               </p>
+               <bibl>Prov. 3. 13.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. C.</hi> for <hi>John Bellamy</hi> at the three golden Lions in <hi>Cornhill,</hi> near the <hi>Royall Exchange,</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100685:2"/>
+            <pb facs="tcp:100685:2"/>
+            <head>
+               <hi>The reaſonable Requeſt of the</hi> A<g ref="char:V">Ʋ</g>THOR.</head>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">K</seg>Now aſſuredly, that had it not been to ſpare the <hi>Purſe</hi> and <hi>Pains</hi> of the poorer ſort of that people (amongſt whom Gods diſ<g ref="char:EOLhyphen"/>poſing-hand hath for the preſent caſt mee) in procuring written Copies hereof, <hi>this Catechiſticall Diſcourſe</hi> ſhould not have troubled the <hi>buiſie Preſſe.</hi> But ſeeing it is now printed, whoever thou art, <hi>be re<g ref="char:EOLhyphen"/>queſted</hi> theſe <hi>four</hi> things.</p>
+            <p n="1">1 To beware, leſt any ſubtle Factors for Satan, doe, by their <hi>ſmooth ptetences, ſlie inſinuations,</hi> or <hi>poiſonous perſwa<g ref="char:EOLhyphen"/>ſions,</hi> hinder <hi>thee</hi> in, or take <hi>thee</hi> off from beſtowing thy <hi>time</hi> and <hi>pains</hi> to get under<g ref="char:EOLhyphen"/>ſtanding in ſpirituall things, by the help of this or other ſuch like Books. Anſwer ſuch
+<pb facs="tcp:100685:3"/>
+               <hi>cunning Jugglers</hi> thus; True indeed, though I get much knowledge, yet <hi>I may</hi> periſh; But if I deſpiſe knowledge, then <hi>I muſt</hi> periſh.</p>
+            <p n="2">2 So often to peruſe, diſcourſe, and me<g ref="char:EOLhyphen"/>ditate upon the Truths enſuing, as that (when juſtly required) thou maiſt be able to give a good <hi>account</hi> of the <hi>ſenſe and meaning</hi> thereof, and to beare the <hi>ſub<g ref="char:EOLhyphen"/>ſtance</hi> in thy memory, though thou ſhouldſt not attain to the <hi>ſet-form</hi> of words.</p>
+            <p n="3">3 Seriouſly upon every occaſion to follow whatſoever <hi>Practicall inſtructions</hi> thou meeteſt withall, eſpecially <hi>thoſe</hi> about <hi>ſelf-examination</hi> and <hi>preparation</hi> before thou commeſt to the Lords Table.</p>
+            <p n="4">4 And laſtly, to ſeek for a ſpeciall <hi>Bleſ<g ref="char:EOLhyphen"/>ſing</hi> from heaven <hi>upon thy own and my endeavours</hi> for the welfare of thy ſoule.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100685:3"/>
+            <head>A <hi>Helpe to the willing SO<g ref="char:V">Ʋ</g>L,</hi> OR, The Communicants Counſellor.</head>
+            <p>Qu. <hi>
+                  <seg rend="decorInit">W</seg>Hat is God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> God is an uncreated Spirit, <hi>Joh.</hi> 4. 24. moſt wiſe, <hi>Rom.</hi> 16. 27. moſt holy, <hi>Exod.</hi> 15. 11. eternall and infinite, <hi>Pſal.</hi> 147. 5. Maker of heaven and earth, the ſea, and all that in them is, <hi>Exod.</hi> 20. 11. <hi>Eſa.</hi> 42. 5. Preſerver and governor of all things and crea<g ref="char:EOLhyphen"/>tures whatſoever, <hi>Nehem.</hi> 9. 6. <hi>Acts</hi> 17. 26.</p>
+            <p>Qu. <hi>What mean you by calling God a Spirit?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> When I call God a Spirit, I mean, that he hath no body at all; and therefore muſt not be thought like to any things which may be ſeen by the eye of man, <hi>Deut.</hi> 4. 15. <hi>&amp;c. Rom.</hi> 1. 22, 23.</p>
+            <p>Qu. <hi>How many Gods be there?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Though there be three <hi>in Perſon,</hi> yet in Divine Eſſence there is but one onely true God, <hi>Deut.</hi> 6. 4. 1 <hi>Joh.</hi> 5. 7. <hi>Epbeſ.</hi> 4. 5, 6.</p>
+            <pb n="2" facs="tcp:100685:4"/>
+            <p>Qu. <hi>Which be the three Perſons in the Godhead?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The three Perſons in the God-head, are God the Father, God the Son, and God the Holy Ghoſt, <hi>Mat.</hi> 28. 19.</p>
+            <p>Qu. <hi>What is the property of God the Father?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The property of God the Father is, <hi>to be of himſelf,</hi> and <hi>to beget the Son,</hi> Joh. 1. 18. Joh. 3. 16.</p>
+            <p>Qu. <hi>What is the property of God the Son?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The property of God the Son, is, <hi>to be begotten</hi> of the Father, <hi>Joh.</hi> 3. 18.</p>
+            <p>Qu. <hi>What is the property of God the Holy Ghost?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The property of God the holy Ghoſt, is, <hi>to proceed</hi> from the Father, <hi>Joh.</hi> 15. 26. and the Son, <hi>Rom.</hi> 8. 9. <hi>Gal.</hi> 4. 6.</p>
+            <p>Qu. <hi>Are any of the three Perſons in the Godhead greater then other?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> None of the three Perſons in the God-head are greater or leſſe then another, but they are all equally God, <hi>Phil.</hi> 2. 6. 1 <hi>Joh.</hi> 5. 7.</p>
+            <p>Qu. <hi>WHat was the State of Man by Creation?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> God created man after his own image, <hi>Gen.</hi> 1. 26. <hi>Gen.</hi> 5. 1. that is to ſay, God created man in a reſemblance of that know<g ref="char:EOLhyphen"/>ledge, <hi>Col.</hi> 3. 10. righteouſneſſe, and true holi<g ref="char:EOLhyphen"/>neſſe, <hi>Epheſ.</hi> 4. 24. <hi>Eccleſ.</hi> 7. 29. which was and is in himſelf: and in theſe the image of God was principally ſeen.</p>
+            <p>Qu. <hi>If God made us ſo holy and happy at firſt,</hi>
+               <pb n="3" facs="tcp:100685:4"/>
+               <hi>how come we now to be ſinfull and miſerable?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Wee are become ſinfull and miſerable, <hi>Epheſ.</hi> 2. 1, 3. by reaſon of <hi>Adams</hi> firſt tranſgreſſi<g ref="char:EOLhyphen"/>on in eating of the forbidden fruit, <hi>Gen.</hi> 2. 17. <hi>Gen.</hi> 3. 6.</p>
+            <p>Qu. <hi>But foraſmuch as</hi> that <hi>firſt tranſgreſſion was committed in Paradiſe above five thouſand years before we were born; how come we to be guilty of it?</hi>
+            </p>
+            <p>
+               <hi>Anſ. Adam</hi> was a publick perſon, <hi>Eccleſ.</hi> 7. 29. and the common Father of us all: and becauſe we were in his loyns, therefore his ſin was ours, and ſo we were all ſinners in his offence, <hi>Rom.</hi> 5. 12. 19.</p>
+            <p>Qu. <hi>Beſides</hi> the guilt <hi>of Adams</hi> firſt ſin, <hi>are we not ſinners in other reſpects alſo?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, beſides our being guilty of <hi>Adams</hi> firſt ſin we have both originall and actuall ſin.</p>
+            <p>Qu. <hi>What is originall ſin?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Originall ſin conſiſts of two parts; name<g ref="char:EOLhyphen"/>ly; Firſt, in <hi>a backwardneſſe to all good;</hi> Secondly, in <hi>an aptneſſe to all evill, Jer.</hi> 4. 22. <hi>Gen.</hi> 6. 5.</p>
+            <p>Qu. <hi>Why doe you call it originall ſin?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> I call it originall ſin, becauſe we took our very firſt beginning in it. For ſo ſoon as ever we began to bee conceived in our Mothers wombe, <hi>Gen.</hi> 5. 3. <hi>Pſal.</hi> 51. 5. ſinfull diſpoſitions and in<g ref="char:EOLhyphen"/>clinations began to cleave unto us.</p>
+            <p>Qu. <hi>What is actuall ſin?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Actuall ſin is a breach of the law of God, 1 <hi>Joh.</hi> 3. 4. by thinking, <hi>Jer.</hi> 4. 14. deſiring, <hi>Ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+               <pb n="4" facs="tcp:100685:5"/>
+5. 28. deviſing, <hi>Prov.</hi> 24. 8. purpoſing, <hi>Pſal.</hi> 28. 3. <hi>Pſal.</hi> 140. 4. ſpeaking, <hi>Col.</hi> 3. 8, 9. <hi>Epheſ.</hi> 5. 4. or acting, 1 <hi>Sam.</hi> 15. 24. 2 <hi>Sam.</hi> 24. 10. thoſe things which God hath forbidden; or by leaving un<g ref="char:EOLhyphen"/>done thoſe things which God hath comman<g ref="char:EOLhyphen"/>ded, <hi>Rom.</hi> 7. 19.</p>
+            <p>Qu. <hi>What is the fruit of Sin?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The fruit of all ſin, is all woe and miſery both here and hereafter. <hi>Deut.</hi> 28. 15, 16, <hi>&amp;c. Rom.</hi> 6. 21. <hi>Eſa.</hi> 6. 9, <hi>&amp;c. Rom.</hi> 11. 8. <hi>Mat.</hi> 27. 3, 4, 5. <hi>Exod.</hi> 5. 2. <hi>Exod.</hi> 7. 3. <hi>Rom.</hi> 1. 28. 2 <hi>Theſſ.</hi> 2. 11. <hi>Rom.</hi> 6. 23. 2 <hi>Theſſ.</hi> 1. 7, 8, 9.</p>
+            <p>Qu. <hi>Is there no way to avoyd this miſery?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> There is no way to avoyd this miſery, but onely by Jeſus Chriſt, <hi>Acts</hi> 4. 12.</p>
+            <p>Qu. <hi>Was Jeſus Chriſt God, or Man?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Jeſus Chriſt was God from all eternity before the world, or any thing was made, <hi>Joh</hi> 1. 1, 2, 3. <hi>Joh.</hi> 8. 58. and he was made man about four thouſand years after the world was made, <hi>Gal.</hi> 4. 4.</p>
+            <p>Qu. <hi>How was Chriſt made man?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Chriſt was conceived by the holy Ghoſt, <hi>Luke</hi> 1. 35. born of the Virgin <hi>Mary, Eſay</hi> 7. 14. &amp; 11. 1. and ſo was made a holy man without all ſin, <hi>Luke</hi> 1. 35. <hi>John</hi> 3. 6.</p>
+            <p>Qu. <hi>But did Chriſt ceaſe to be God, when hee was made Man?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, Chriſt did not ceaſe to be God, when he was made man, but was from that time forth,
+<pb n="5" facs="tcp:100685:5"/>
+is now, <hi>Heb.</hi> 13. 8. and ever ſhall be both God and Man, <hi>Ioh.</hi> 11. 14. <hi>Rom.</hi> 9. 5. in one perſon, 1 <hi>Cor.</hi> 8. 6.</p>
+            <p>Qu. <hi>Why was Chriſt both God and Man?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Chriſt was both God and Man, that he might be a fit Mediator betwixt God and men; and bee able both to <hi>doe</hi> and <hi>ſuffer</hi> all things that were to be done and ſuffered on our behalf, <hi>Gal.</hi> 4. 4, 5. <hi>Heb.</hi> 2. 11, 14. &amp; 4. 15, 16.</p>
+            <p>Qu. <hi>Is there any other Mediator between God and men beſides Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, there is but one Mediator betwixt God and men, namely, the Man Chriſt Jeſus, 1 <hi>Tim.</hi> 2. 5. who having died upon the croſſe <hi>Phil.</hi> 2. 8. to ſave his people from their ſinnes, roſe again from the dead, and aſcended into heaven, where he now fits at Gods right hand and makes continuall interceſſion for them, <hi>Acts</hi> 1. 9, 10, 11. <hi>Rom.</hi> 8. 34.</p>
+            <p>Qu. <hi>What hath Chriſt</hi> done <hi>for ſuch of us as belong to Gods election?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Firſt, Chriſt hath fulfilled the Law, <hi>Mat.</hi> 5. 17, 18. which we ought to have exact<g ref="char:EOLhyphen"/>ly kept, <hi>Rom.</hi> 10. 5. Secondly, he hath me<g ref="char:EOLhyphen"/>rited a crown of righteouſneſſe for us, by ful<g ref="char:EOLhyphen"/>filling that Law, <hi>Phil.</hi> 2. 8, 9. <hi>Heb.</hi> 2. 9. &amp; 12. 2.</p>
+            <p>Qu. <hi>What benefit have we by Chriſts</hi> doings?</p>
+            <p>
+               <hi>Anſ.</hi> We have this benefit by Chriſts <hi>do<g ref="char:EOLhyphen"/>ings:</hi> Firſt, God will impute Chriſts righte<g ref="char:EOLhyphen"/>ouſneſſe to us in his fulfilling the Law, <hi>Rom.</hi>
+               <pb n="6" facs="tcp:100685:6"/>
+5. 10. <hi>Rom.</hi> 10. 5. Secondly, he will give us the crown of glory which his Son Chriſt hath merited by his righteouſneſſe, <hi>John</hi> 17. 22. <hi>Col.</hi> 3. 4. <hi>Heb.</hi> 9. 24. <hi>John</hi> 1. 23.</p>
+            <p>Qu. <hi>What hath Christ ſuffered for us?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Chriſt Jeſus hath ſuffered for us thus; Firſt, he hath born our ſins, 1 <hi>Pet.</hi> 2. 24. <hi>Heb.</hi> 9. 28. 2 <hi>Cor.</hi> 5. 21. Secondly, he hath ſuffered the wrath of God due to us for ſin, 1 <hi>Pet.</hi> 3. 18. 1 <hi>Cor.</hi> 15. 3.</p>
+            <p>Qu. <hi>What benefit have we by Chriſts ſufferings for us?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If we be indeed the people of God, our benefit by Chriſts ſufferings is very great. For firſt, God will not impute thoſe ſins to us which Chriſt hath born, 2 <hi>Cor.</hi> 5. 19. And ſecondly, God will not lay that wrath and vengeance upon us which Chriſt hath ſuffe<g ref="char:EOLhyphen"/>red and undergone, <hi>Rom.</hi> 5. 9. 1 <hi>Theſſ.</hi> 1. 10. but on the contrary he will give us through Chriſt all things good for us, both here and hereafter, <hi>Mat.</hi> 7. 10. <hi>Pſal.</hi> 84. 11.</p>
+            <p>Qu. <hi>Seeing Chriſt hath both fulfilled the Law for us, and ſatisfied Gods wrath, we may caſt away care, becauſe there's nothing left for us to doe or ſuffer; is there?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> In a way <hi>of merit, or ſo as to rest upon our doings or ſufferings for juſtification or ſalvation,</hi> wee neither can nor may doe or ſuffer any thing, <hi>Eſay</hi> 64. 6. <hi>Phil.</hi> 3. 7, 8, 9. <hi>Luke</hi> 17. 10.
+<pb n="7" facs="tcp:100685:6"/>
+But in a way of obedience we are bound both to doe and ſuffer whatſoever the will of God in his Word requires of us, as a token of our ſubmiſſiveneſſe and thankfulneſſe to God, 1 <hi>Cor.</hi> 6. 19, 20. <hi>Phil.</hi> 1. 20.</p>
+            <p>Qu. <hi>How can wee doe any thing that is good, ſeeing we have no power naturally of our ſelves?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Firſt, even unbeleevers have ſo much naturall power of themſelves, as to uſe ſuch outward meanes both in publick and private, as are appointed of God (through the aſſi<g ref="char:EOLhyphen"/>ſtance of his Spirit) to work a power in them to pleaſe God; and therefore they muſt not be idle, and ſay they have no power of them<g ref="char:EOLhyphen"/>ſelves, but up and bee doing in the uſe of meanes, <hi>Acts</hi> 9. 6. <hi>Luk.</hi> 13. 24. <hi>Phil.</hi> 2. 12.</p>
+            <p>Secondly, unfeigned beleevers, who have ſome ſupernaturall power derived upon them from Chriſt, <hi>Joh.</hi> 1. 16. muſt improve, 2 <hi>Tim.</hi> 1. 6. <hi>Rev.</hi> 3. 2. that power alſo in the practiſe of duties of holineſs towards God, and duties of righteouſneſſe toward men all the dayes of their life, <hi>Luke</hi> 1. 74, 75. <hi>Acts</hi> 24. 16. For though wee ſhall not bee ſaved for our good works, yet wee ſhall never bee ſaved without good works, <hi>Heb.</hi> 12. 14. <hi>Jam.</hi> 2. 14, 26.</p>
+            <p>Qu. <hi>How are Chriſtians made partakers of Chriſt and his benefits?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Chriſtians are made partakers of Chriſt and his benefits, onely by faith appre<g ref="char:EOLhyphen"/>hending
+<pb n="8" facs="tcp:100685:7"/>
+and applying them, <hi>Epheſ.</hi> 3. 17. <hi>Mat.</hi> 21. 22.</p>
+            <p>Qu. <hi>What is Faith?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Faith is a perſwaſion of the heart, <hi>Rom.</hi> 10. 10. grounded upon the promiſes, <hi>Pſal.</hi> 119. 49, 50. of God rightly underſtood and applyed, a <hi>Pet.</hi> 3. 16. <hi>Mat.</hi> 4. 6. comp. with <hi>Pſalm</hi> 91. 11. whereby I beleeve that Jeſus Chriſt died for me, <hi>Gal.</hi> 2. 20. as well as for any other.</p>
+            <p>Qu. <hi>Is this ſaving. Faith in our own power, or can we beleeve when we will?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, we have not faith of our ſelves, <hi>Epheſ.</hi> 2. 8. <hi>Phil.</hi> 1. 29. neither is it in our own power to beleeve when we will: but faith is the gift of God, wrought in the heart of Gods elect by the Word, <hi>Rom.</hi> 10. 17. and by the Spirit of God, 1 <hi>Cor.</hi> 3. 6, 7. and therefore we muſt uſe the meanes to get it.</p>
+            <p>Qu. <hi>Cannot we be ſaved without Faith?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> No, wee cannot bee ſaved without faith; for he that believeth not on the Son of God, ſhall not ſee life, but ſhall periſh eter<g ref="char:EOLhyphen"/>nally, <hi>Joh.</hi> 3. 36. <hi>Mar.</hi> 16. 16. <hi>Gal.</hi> 3. 11.</p>
+            <p>Qu. <hi>Is there any true faith in that ſoule that doth not unfeignedly repent?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> There is no true faith in that ſoule that doth not often act forth unfained repen<g ref="char:EOLhyphen"/>tance for his ſins; becauſe, every one that be<g ref="char:EOLhyphen"/>leeves in Chriſt, hath the ſpirit of Chriſt, <hi>Gal.</hi>
+               <pb n="9" facs="tcp:100685:7"/>
+4. 6. <hi>Rom.</hi> 8. 9. but now true repentance is a ſa<g ref="char:EOLhyphen"/>ving grace, iſſuing from Chriſts ſpirit, 2 <hi>Tim.</hi> 2. 25. <hi>Zech.</hi> 12. 10. as well as faith.</p>
+            <p>Qu. <hi>What is true repentance?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> True repentance is an inward diſlike, hatred and ſorrow, 2 <hi>Cor.</hi> 7. 9, 10. for all ſinne, <hi>Pſal.</hi> 119. 104. and a turning from it to God, <hi>Jer.</hi> 3. 13. <hi>Jam.</hi> 4. 9, 10. 1 <hi>Pet.</hi> 5. 6. <hi>Eſay</hi> 1. 16, 17. 1 <hi>Pet.</hi> 2. 11, 12. 1 <hi>Tim.</hi> 6. 12. <hi>Prov.</hi> 8. 13. <hi>Pſal.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. 10. <hi>Prov.</hi> 13. 5. chiefly upon this ground, becauſe every ſin, as it is ſin, is contrary to the holy nature, <hi>Gen.</hi> 6. 6. <hi>Gen.</hi> 39. 9. and ſacred will of God, 1 <hi>Theſſ.</hi> 4. 7.</p>
+            <p>Q. <hi>What becomes of the ſouls of men after death?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The ſoules of all that die in the true and unfeigned faith of Chriſt, immediately goe to live with Chriſt in bleſſedneſſe, <hi>Luk.</hi> 23. 43. <hi>Phil.</hi> 1. 23. and the ſoules of the wicked, <hi>Luke</hi> 16. 23. goe immediately into hell tor<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Qu. <hi>Whether ſhall mens bodies riſe again at the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt day, or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, the bodies both of the godly and ungodly ſhall riſe again at the laſt day of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgment, and at that time <hi>all</hi> ſhall appear be<g ref="char:EOLhyphen"/>fore the judgment ſeat of Chriſt, to receive ac<g ref="char:EOLhyphen"/>cording to what they have done in the body, whether it be good or evil, 2 <hi>Cor.</hi> 5. 10. and the righteous ſhall goe into life eternall, and the wicked into everlaſting puniſhment, <hi>Mat.</hi> 25. 34, 41.</p>
+            <div type="part">
+               <pb n="10" facs="tcp:100685:8"/>
+               <head>Of the Sacraments.</head>
+               <p>Qu. <hi>HOw many Sacraments have we under the New Teſtament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Under the New Teſtament wee have onely two Sacraments, namely, Baptiſm and the Lords-ſupper.</p>
+               <p>Qu. <hi>What mean you by the word Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Every Sacrament is an ordinance of God, wherein by externall, viſible, and ordi<g ref="char:EOLhyphen"/>nary <hi>creatures</hi> and <hi>acts</hi> God doth ſignifie and ſeal, <hi>Rom.</hi> 4. 11. unto us the reall and ſpirituall conveyance of heavenly graces; and doth likewiſe receive a mutuall ſeale from us, of our new and better obedience, according to the mutuall Covenant between him and us.</p>
+               <p>Qu. <hi>What is that mutuall covenant between God and us?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The mutuall Covenant between God and us, is expreſſed in theſe words, <hi>I will be to them a God, and they ſhall be to me a people,</hi> Jer. 31. 33. Heb. 8. 10.</p>
+               <p>Qu. <hi>What is the meaning of this Covenant?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> In this Covenant God promiſeth that he will be al-ſufficient unto us both in reſpect of our ſoules and bodies: but yet ſo, as that he covenanteth for himſelf, that we muſt fear, ſerve, and endeavour to obey his whole will.
+<pb n="11" facs="tcp:100685:8"/>
+In a word, if we take him to be our God, wee muſt give up our ſelves to be his people.</p>
+               <p>Qu. <hi>How many things are requiſite to the ma<g ref="char:EOLhyphen"/>king of a Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Three ingredients are neceſſary to make a Sacrament; namely, 1 Words of in<g ref="char:EOLhyphen"/>ſtitution from the Lord. 2 An outward ſign. 3 An inward grace ſignified by that outward ſign.</p>
+               <p>Qu. <hi>How often muſt we take the Sacraments?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> It is enough to be baptized once one<g ref="char:EOLhyphen"/>ly, <hi>Acts</hi> 7. 8. becauſe Baptiſme is a pledge of our new-birth, <hi>Tit.</hi> 3. 5. But we muſt receive the Lords-ſupper often, <hi>Acts</hi> 2. 42. &amp; 20. 7. becauſe the Lords-ſupper is the ſeale and pledge of our continuance and growth in Chriſt, 1 <hi>Cor.</hi> 10. 16.</p>
+               <p>Qu. <hi>What is Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Baptiſm is the firſt Sacrament of the New Teſtament, wherein God doth ſeale and aſſure to his elect their regeneration or new-birth, <hi>Epheſ.</hi> 5. 26. 1 <hi>Pet.</hi> 3. 21. <hi>Tit.</hi> 3. 5. <hi>Acts</hi> 22. 16. and all the benefits of Chriſt, which are entayled upon that new-birth.</p>
+               <p>Qu. <hi>What is the word of Inſtitution in the Sa<g ref="char:EOLhyphen"/>crament of Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The word of Inſtitution in the Sa<g ref="char:EOLhyphen"/>crament of Baptiſm runs thus, Goe ye and diſciple all nations, baptizing them in the name of the Father, and of the Son, and of the holy Ghoſt, <hi>Mat.</hi> 28. 19.</p>
+               <pb n="12" facs="tcp:100685:9"/>
+               <p>Qu. <hi>What is the outward ſigne in Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The outward ſigne in Baptiſm is water, <hi>John</hi> 3. 23. <hi>Acts</hi> 8. 38. wherewith the party baptized is to be ſprinkled, waſhed, or dipped, in the name of the Father, Son, and holy Ghoſt.</p>
+               <p>Qu. <hi>What is the inward grace ſignified and ſealed to us by the water of Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The inward grace ſignified and ſealed to us by the water of Baptiſm, is principally the grace of regeneration, yet there be divers other graces alſo: As for inſtance;</p>
+               <p>1 By outward Baptiſm we are <hi>made mem<g ref="char:EOLhyphen"/>bers of the viſible Church</hi> of Chriſt, 1 <hi>Cor.</hi> 12. 12, 13. <hi>Acts</hi> 2. 41. 2 To them that beleeve Baptiſm ſignifies and ſeales their <hi>reall and firme union to Jeſus Chriſt, Rom.</hi> 6. 3. <hi>Gal.</hi> 3. 27. <hi>Epheſ.</hi> 4. 5. 3 Baptiſm ſignifies and ſeales <hi>the ſpirituall waſhing of our ſouls from the guilt of ſin, and the imputation of Chriſts righteouſneſſe</hi> unto juſtification and ſalvation, <hi>Acts</hi> 2. 38. <hi>Rom.</hi> 4. 11.</p>
+               <p>Qu. <hi>What ſort of perſons ought to bee admitted to the Sacrament of Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Thoſe that profeſſe their faith, repen<g ref="char:EOLhyphen"/>tance, and obedience to the Goſpel of Jeſus Chriſt, <hi>Mat.</hi> 3 6. <hi>Acts</hi> 8. 12, 13, 37, 38. &amp; 2. 41. they and <hi>their children, Acts</hi> 2. 39. 2 <hi>Cor.</hi> 7. 14. <hi>Acts</hi> 16. 15, 33. 1 <hi>Cor.</hi> 1. 16. <hi>Mat.</hi> 28. 19. ought to be admitted to Baptiſme.</p>
+               <pb n="13" facs="tcp:100685:9"/>
+               <p>Qu. <hi>Can you give me any one good ground why the Infants of profeſſors muſt be baptized?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> If the infants of Profeſſors under the new Teſtament might not be baptized, we might then conclude that the Law was more glorious, and more full of grace then the Goſpel, and the Infants of the Jewes more happy before Chriſts Incarnation, then the children of Chri<g ref="char:EOLhyphen"/>ſtians ſince Chriſts Incarnation and aſcenſion; but the Scripture teacheth the contrary, 2 <hi>Cor.</hi> 3. 8, 9, 10, 11. therefore the Infants of Chriſtians ought not to be kept from Baptiſm, ſeeing the Jews Infants were not kept from Circumciſion.</p>
+               <p>Qu. <hi>Is every elected Infant inwardly regenerated at the very time of its being waſhed with Baptiſmall water?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Every elected Infant is not ſo regenera<g ref="char:EOLhyphen"/>ted at the very time of its being waſhed with Baptiſmall water. For theſe Reaſons;</p>
+               <p n="1">1 Becauſe we doe not find that God hath ſo tyed and limited himſelf to any ordinance, and therefore we muſt not dare to limit him to ſuch a <hi>particular time</hi> in this ordinance, <hi>Pſal.</hi> 78. 41.</p>
+               <p n="2">2 Regeneration doth not alwayes accompany outward Baptiſm, becauſe many elected perſons baptized with water in their infancy, live twenty or thirty yeares together in open prophaneneſſe and impiety before they reform their wayes: and ſhall we think that theſe were regenerated or inwardly renewed by the holy Ghoſt at their
+<pb n="14" facs="tcp:100685:10"/>
+infant-baptiſme? Sure the tree would have been known by its fruits, and had the ſeed of God been in them, it would have put forth its blade and ear before this time, <hi>Mat.</hi> 12. 33. 1 <hi>Joh.</hi> 3. 9.</p>
+               <p>Qu. <hi>WHat is the Sacrament of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The Sacrament of the Lords-ſupper is the ſign, ſeale, and pledge, <hi>Rom.</hi> 4. 11. 1 <hi>Cor.</hi> 10. 16. of our continuance and growth in that ſaving faith, and all other ſaving graces which God hath already wrought in our ſoules.</p>
+               <p>Qu. <hi>What ſort of perſons ought to be admitted to the Sacrament of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Thoſe that have a competent meaſure of knowledge in the myſteries of godlineſſe, and are ſound in the faith, and cannot bee juſtly ac<g ref="char:EOLhyphen"/>cuſed of any vileneſſe or impiety in their wal<g ref="char:EOLhyphen"/>king before God or men; ſuch the Church muſt receive into her communion and fellowſhip here; but all others ſhee ought to refuſe, <hi>Tit.</hi> 1. 13. 1 <hi>Cor.</hi> 11. 17, 18, 19. <hi>Rev.</hi> 2. 14, 15, 16. <hi>Rev.</hi> 2. 20. <hi>Tit.</hi> 3. 10, 11. <hi>Mat.</hi> 18. 15, 16, 17, 18. 1 <hi>Cor.</hi> 5. 2, 5, 7, 12, 13. 2 <hi>Theſſ.</hi> 3. 6. 2 <hi>Tim.</hi> 3. 1, 2, 3, 4, 5, 6. ver.</p>
+               <p>Qu. <hi>How ſhall the Church come to know the ſtate and condition of her members?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Every particular member ought to watch over his fellow-members, <hi>Matth.</hi> 18. 15, 16, <hi>&amp;c.</hi> 1 <hi>Cor.</hi> 12. 25, <hi>&amp;c.</hi> but eſpecially the Church-Officers are bound by vertue of their
+<pb n="15" facs="tcp:100685:10"/>
+Office alſo to be very carefull over the Flock, and to look after their knowledge, faith, and man<g ref="char:EOLhyphen"/>ners, as the Scriptures doe abundantly witneſſe, <hi>Acts</hi> 20. 17, 28, 29, 30, 31. 1 <hi>Cor.</hi> 4. 1. <hi>Mat.</hi> 7. 6. <hi>Phil.</hi> 2. 19. <hi>Col.</hi> 4. 8. 1 <hi>Theſſ.</hi> 3. 2, 5, 6. <hi>Tit.</hi> 1. 7. <hi>Heb.</hi> 13. 17. 1 <hi>Pet.</hi> 5. 1, 2.</p>
+               <p>Qu. <hi>But may every one that the Church doth admit of, come boldly to the Lords Table, without any danger?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Every one that the Church admits and allows of in the judgment of charity, may come without any danger of Church-cenſures; but if they be inwardly void of true grace, bee cloſe hypocrites, or unprepared perſons, <hi>then they will be in danger of Gods ſore diſpleaſure (in caſe they ſo preſume to come) notwithſtanding their admittance by the Church.</hi>
+               </p>
+               <p>Qu. <hi>But is it not the Churches fault, if ſuch un<g ref="char:EOLhyphen"/>ſound profeſſors, cloſe hypocrites, and other perſons come to the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> No, it is not the Churches fault though ſuch faulty ones doe come; becauſe the Church in admitting them, did not know them to bee ſuch, by reaſon their inward unſoundneſſe, or groſſe unfitneſſe, did not appeare either in their outward profeſſion, communication, or conver<g ref="char:EOLhyphen"/>ſation. For the Church can no way judge of the nature of the tree, but only by the ſenſible fruits, <hi>Mat.</hi> 7. 1. <hi>Mat.</hi> 12. 33. 1 <hi>Cor.</hi> 2. 11. and Scripture-inſtances make it cleare, that Church-cenſures
+<pb n="16" facs="tcp:100685:11"/>
+were never inflicted in doubtfull, ſuſpicious, or hidden caſes, but alwayes adminiſtred upon ma<g ref="char:EOLhyphen"/>nifeſt and known grounds, <hi>Mat.</hi> 18. 16. 1 <hi>Cor.</hi> 5. 1. compared with the 5 verſe.</p>
+               <p>Qu. Well: Let's now proceed to enquire fur<g ref="char:EOLhyphen"/>ther about the nature, ends and uſe of this Sa<g ref="char:EOLhyphen"/>crament; and firſt tell me, <hi>How doe Baptiſm and the Lords-ſupper differ one from another?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> They differ in many particulars; but their main difference is in reſpect of the end and uſe which they ſerve unto.</p>
+               <p>Qu. <hi>How doe they differ in reſpect of</hi> their gene<g ref="char:EOLhyphen"/>rall end and uſe?</p>
+               <p>
+                  <hi>Anſ.</hi> They differ in reſpect of <hi>their generall end and uſe,</hi> thus: Baptiſm was appointed by the Lord to be a ſigne and ſeale of our ſpirituall birth, ſpi<g ref="char:EOLhyphen"/>rituall life, and ſpirituall being: but the Lords-ſupper was appointed to be a ſigne and ſeale of our continuing, growing, and increaſing in that ſpirituall life, and all other ſpirituall graces.</p>
+               <p>Qu. <hi>Did Chriſt when he adminiſtred this Sacra<g ref="char:EOLhyphen"/>ment at the Table, give the Bread and the Cup into</hi> each particular perſons hand ſeverally?</p>
+               <p>
+                  <hi>Anſ.</hi> No, Chriſt did not give either the Bread or cup into each particular mans hand ſeverally, but he ſpake to them all jointly, and gave them commiſſion and charge to take the elements themſelves, <hi>Mat.</hi> 26. 26, 27. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Qu. <hi>What is the Word of inſtitution in the Sacra<g ref="char:EOLhyphen"/>ment of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <pb n="17" facs="tcp:100685:11"/>
+                  <hi>Anſ.</hi> The Word of Inſtitution in the Sacra<g ref="char:EOLhyphen"/>ment of the Lords-ſupper runs thus: Take, eate, this is my body which is broken and given for you; doe this in remembrance of me: Drinke ye all of this, for this cup is my blood of the new Teſtament, which is ſhed for many for the remiſ<g ref="char:EOLhyphen"/>ſion of ſins; this doe ye, as oft as ye drink it, in remembrance of me, <hi>Mat.</hi> 26. 26, 27, 28. <hi>Luk.</hi> 22. 19. 1 <hi>Cor.</hi> 11. 24, 25.</p>
+               <p>Qu. <hi>What is the outward ſign in the Sacrament of the Lords-ſupper.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The outward ſign in the Sacrament of the Lords-ſupper, is Bread broken, and Wine poured forth; as alſo the actions of bleſſing, breaking, giving, receiving, eating, and drinking, <hi>Mat.</hi> 26. 26, 27.</p>
+               <p>Qu. <hi>What is the</hi> inward grace <hi>which is ſignified by the outward ſigne in the Sacrament of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The inward grace ſignified by the out<g ref="char:EOLhyphen"/>ward ſign in the Sacrament of the Lords-ſupper, is the body and blood of Jeſus Chriſt, <hi>Mat.</hi> 26. 26, 28. 1 <hi>Cor.</hi> 11. 24, 25. and all the <hi>benefits</hi> of his death, which are promiſed in the Covenant of Grace, <hi>Rom.</hi> 8. 32. to ſuch as are already belee<g ref="char:EOLhyphen"/>vers; as namely, <hi>increaſe of faith, and all ſaving-graces, Pſal.</hi> 92. 12, 13, 14. <hi>Joh.</hi> 15. 2. <hi>increaſe of the aſſurance</hi> of Gods favour and love, <hi>Joh.</hi> 14. 21, 23. and ſo conſequently a more firm aſſurance of all
+<pb n="18" facs="tcp:100685:12"/>
+good things both for body and ſoule, here and hereafter, <hi>Pſal.</hi> 84. 11.</p>
+               <p>Qu. <hi>For what</hi> ſpeciall <hi>end, or to what purpoſe did Chriſt ordain the Sacrament of his Supper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Chriſt ordained this Sacrament of his Supper for divers ſpeciall ends; but the principall end was, for the quickening of the hearts of his people in remembrance of <hi>him</hi> and his <hi>death</hi> un<g ref="char:EOLhyphen"/>till his comming again, <hi>Luk.</hi> 22. 19. 1 <hi>Cor.</hi> 11. 26.</p>
+               <p>Q. <hi>What is there in the Sacrament of the Lords ſup<g ref="char:EOLhyphen"/>per, to put us in remembrance of Chriſt and his death?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> In this Sacrament there is Bread <hi>broken,</hi> which puts us in minde of the breaking of Chriſts body: and there is Wine parted from the Bread, ſhewing the ſhedding forth of his moſt precious blood, when hee died for us upon the croſſe, 1 <hi>Cor.</hi> 11. 24, 25.</p>
+               <p>Qu. <hi>But what comfort can we take by a bare cal<g ref="char:EOLhyphen"/>ling to minde the death of Chriſt, ſeeing a wicked per<g ref="char:EOLhyphen"/>ſon may barely call to mind Chriſt and his death, when he ſees the bread and wine, as well as we?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The godly ſoul at the ſight of the bread and wine upon the Lords Table doth <hi>not barely call</hi> to mind Chriſt or his death, but doth alſo by faith <hi>lay hold</hi> upon Chriſt crucified as the bleſſed cauſe and means of inward comfort and eternall life, <hi>Luke</hi> 22. 19, 20.</p>
+               <p>Q. <hi>Why</hi> do you <hi>deſire to receive the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> I deſire to receive it, to the end I may be put in minde of my Saviour, and of his death <hi>in</hi>
+                  <pb n="19" facs="tcp:100685:12"/>
+                  <hi>ſuch wiſe,</hi> as that thereby my poor doubting ſoul may bee ſtrengthened and ſetled in a more firm perſwaſion and belief that hee <hi>died for mee,</hi> as well as for any others, <hi>Gal.</hi> 2. 20.</p>
+               <p>Q. <hi>Will the receiving of the Sacrament of the Lords ſupper make you a good Chriſtian, though you be an un<g ref="char:EOLhyphen"/>beleeving and an ungodly perſon when you come to it?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> No, the receiving of the Sacrament will not make me a beleever: For if I bring no faith &amp; other graces with me, I ſhall carry none away; and if I come an ungodly perſon thither, I ſhall go away again as bad, if not worſe then I came, 1 <hi>Cor.</hi> 11. 27, 29.</p>
+               <p>Qu. <hi>But how then muſt worthy Communicants be qualified? muſt they needs have the</hi> truth of ſaving <hi>grace wrought in their ſouls, before they can be meet par<g ref="char:EOLhyphen"/>takers of the Sacrament of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Yes, wee muſt have the truth of ſaving grace in us before wee can bee meet partakers of the Lords-ſupper; becauſe the Lords-ſupper is the ſign, ſeale, and pledge whereby God aſſures us that wee ſhall continue and grow in grace, 1 <hi>Cor.</hi> 10. 16. <hi>Joh.</hi> 6. 54, 55, 56, 57. But now <hi>conti<g ref="char:EOLhyphen"/>nuance and growth</hi> in grace doe preſuppoſe the be<g ref="char:EOLhyphen"/>ing, and the life of grace to be in us before; for dead things grow not at all.</p>
+               <p>Qu. <hi>But</hi> (they ſay) <hi>ſome have been converted at the Sacrament of the Lords-ſupper. It ſeems then that this Sacrament is a converting ordinance; and if ſo, pro<g ref="char:EOLhyphen"/>phane perſons and all ſorts ought to come even as ſuch:</hi> What ſay you to this?</p>
+               <p>
+                  <pb n="20" facs="tcp:100685:13"/>
+                  <hi>Anſ.</hi> Though inſtance could be given of ſome few in an age that were converted at the Sacra<g ref="char:EOLhyphen"/>ment of the Lords-ſupper, yet that would not prove that we therefore ought to look upon it as a converting ordinance of God to be uſed direct<g ref="char:EOLhyphen"/>ly for that end, and ſo to admit and receive ſcan<g ref="char:EOLhyphen"/>dalous perſons unto it: Becauſe the rarity of ſuch inſtances would ſufficiently ſhew, that it is but <hi>meerly accidentall</hi> to the Sacrament to be a means to convert people from Sin and Satan to God and Chriſt; and we muſt not gather <hi>ordinary and ſtanding Practicall rules</hi> from accidentall provi<g ref="char:EOLhyphen"/>dences and rare events.</p>
+               <p>Beſides, the very nature of the outward ele<g ref="char:EOLhyphen"/>ments do plainly diſcover the <hi>nature</hi> of this Sa<g ref="char:EOLhyphen"/>crament to <hi>be nouriſhing,</hi> and <hi>not begetting.</hi>
+               </p>
+               <p>And laſtly, if any were ever converted by this Sacrament, their converſion ſurely was, either by <hi>beholding</hi> the outward elements which are <hi>a viſible word;</hi> or by <hi>hearing</hi> the words of inſtitu<g ref="char:EOLhyphen"/>tion read or opened, and prayer joyned there<g ref="char:EOLhyphen"/>with, <hi>(both which wee call the conſecration of the Ele<g ref="char:EOLhyphen"/>ments)</hi> and <hi>not</hi> by <hi>actuall receiving</hi> the outward ſignes: which will <hi>onely</hi> prove, that unworthy perſons ought to be ſuffered <hi>to ſee</hi> and <hi>heare,</hi> but not prove that they ought <hi>actually</hi> to <hi>receive</hi> and <hi>partake</hi> of the Sacramentall elements.</p>
+               <p>Qu. <hi>But at leaſt, doe you not think that the by-paſt ſins of a true beleever are pardoned in, and by his meet partaking of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <pb n="21" facs="tcp:100685:13"/>
+                  <hi>Anſ.</hi> No, for if he be a true beleever, his ſins paſt, (eſpecially if confeſſed to God, and ſeri<g ref="char:EOLhyphen"/>ouſly repented of) are pardoned, <hi>Ezek.</hi> 18. 21, 22. with God, before he comes to eate and drink at the Lords Table.</p>
+               <p>Qu. <hi>If his</hi> ſins committed <hi>bee pardoned before he comes to the Lords Table, then what good can a beleever get by receiving that Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Though the ſins paſt be pardoned to a Chriſtian before hee comes to the Lords Table, yet being a beleever and a worthy receiver, he is by the Sacrament <hi>ſtrengthened in a more firm belief of the pardon of his ſins;</hi> and alſo, <hi>he is ſtrengthened</hi> in a greater confidence, <hi>that God will increaſe all ſa<g ref="char:EOLhyphen"/>ving graces in him,</hi> Jud. 6. 36, 37. &amp;c.</p>
+               <p>Qu. <hi>How can the eating of a morſell of bread, and the drinking of a little wine at the Lords Table</hi> ſtrengthen the faith, <hi>and make you</hi> more confident <hi>that God will</hi> increaſe <hi>all ſaving graces in you?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> In this reſpect the eating of the bread and drinking of the wine at the Lords Table doe ſtrengthen and increaſe my faith and confidence; Becauſe I know that Chriſt did ſet apart bread and wine as <hi>tokens</hi> and <hi>pledges to aſſure me,</hi> that as ſurely as a weak body is made ſtronger, grows greater, and is preſerved alive, by receiving meat and drink; ſo ſurely ſhall <hi>my ſoul</hi> be made ſtron<g ref="char:EOLhyphen"/>ger in faith, grow more and more in all ſaving graces, and bee nouriſhed up unto eternall life through my eating and drinking the fleſh and
+<pb n="22" facs="tcp:100685:14"/>
+blood of Jeſus Chriſt by faith, <hi>Joh.</hi> 6. 54. <hi>&amp;c.</hi>
+               </p>
+               <p>Qu. <hi>But doe worthy Communicants eat and drink the fleſh and blood of Chriſt in the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Yes; worthy Communicants do eat and drink the fleſh and blood of Chriſt at the Lords ſupper, <hi>Joh.</hi> 6. 53, 56.</p>
+               <p>Q. <hi>How can we eat the fleſh and drink the blood of Chriſt, ſeeing Chriſt is in heaven, and we are on earth?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Though Chriſt be in heaven, and we on earth, yet by faith we can reach him, and by faith we doe ſpiritually eate his fleſh, and drink his blood, <hi>Joh.</hi> 6. 35, 47, 48.</p>
+               <p>Qu. <hi>But what is it to eat and drink Chriſts fleſh and blood ſpiritually by faith?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> To eat and drink the fleſh and blood of Chriſt ſpiritually by faith, is to beleeve unfeig<g ref="char:EOLhyphen"/>nedly, that as Jeſus Chriſt doth ſpiritually unite himſelf to the outward ſigns of bread and wine; ſo this <hi>ſpirituall preſence of Christ in the outward ſigns,</hi> doth bring along with it the merits and benefits of Chriſts active and paſſive obedience, for the comforting, ſtrengthening, and nouriſh<g ref="char:EOLhyphen"/>ing of my ſoul.</p>
+               <p>Qu. <hi>Is not Ieſus Chriſt bodily preſent in the Sa<g ref="char:EOLhyphen"/>crament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> No, Chriſt is not bodily preſent in the Sa<g ref="char:EOLhyphen"/>crament, for the Scriptures affirm, that the hea<g ref="char:EOLhyphen"/>ven muſt receive him <hi>untill the times of reſtitution of all things,</hi> Act. 3. 21.</p>
+               <p>Qu. <hi>But are not the bread and wine changed into</hi>
+                  <pb n="23" facs="tcp:100685:14"/>
+                  <hi>the very fleſh and blood of Chriſt after the Miniſter has conſecrated them; that is, after he hath read the words of Inſtitution, given thanks and prayed?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The bread and wine (after the words of conſecration) do receive a Sacramentall change in their <hi>uſe and effects,</hi> becauſe the worthy recei<g ref="char:EOLhyphen"/>ver by faith takes them as ſacred and holy pled<g ref="char:EOLhyphen"/>ges and ſeals of Chriſts body and blood, which before conſecration were but common and ordi<g ref="char:EOLhyphen"/>nary creatures. But in regard of their <hi>ſubstance and materiality,</hi> they remaine ſtill the ſame as they were before, without any change at all.</p>
+               <p>Qu. <hi>But does not Chriſt himſelf ſay of the</hi> Bread, This is my body; <hi>and of the</hi> Wine, This is my blood; <hi>and does not Chriſt ſpeak true in ſo ſaying?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Chriſts words in calling the bread and wine his Body and Blood, are moſt certainly true in his own <hi>ſacramentall</hi> and <hi>ſpirituall</hi> ſenſe, <hi>Joh.</hi> 6. 63. but not in a <hi>literall</hi> and <hi>carnall</hi> ſenſe. For if Chriſt had given his diſciples his very fleſh and blood to be eaten by their bodily mouths as they ſate at the Table, then he could not the next day have ſuffered upon the croſſe, which yet hee did, <hi>Mat.</hi> 26. 26, 34. comp. with <hi>Mat.</hi> 27. 1. 46, 50. Again, if Chriſts body were materially preſent upon the Communion Table after the words of Conſecration, then he ſhould bee in a hundred places at once; for the Sacrament may bee, and is many times adminiſtred in a hundred ſeverall Congregations at one very time; and ſo alſo we
+<pb n="24" facs="tcp:100685:15"/>
+ſhould make Chriſt to have a hundred bodies! we ſtill conclude therefore, that Chriſt is not bo<g ref="char:EOLhyphen"/>dily, but onely Sacramentally and ſpiritually preſent in the Sacrament.</p>
+               <p>Qu. But to return to our former matters: <hi>Do all thoſe that partake outwardly of this Sacrament of the Lords-ſupper, receive the forenamed ſpirituall bene<g ref="char:EOLhyphen"/>fits thereby?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> No, all thoſe that partake of the outward ſigns, do not receive the ſpirituall benefits; for many come to this Sacrament of the Lords-ſup<g ref="char:EOLhyphen"/>per not for the better, but for the worſe, 1 <hi>Cor.</hi> 11. 17. 34.</p>
+               <p>Qu. <hi>In what reſpect doe many come to the Lords Table for the worſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Many come to the Lords Table for the worſe; becauſe, by unworthy receiving thereat, they become guilty of the body and blood of Chriſt, and eat and drink their own damnation, 1 <hi>Cor.</hi> 11. 27, 29.</p>
+               <p>Qu. <hi>How may unworthy partakers at the Lords table, be ſaid to be guilty of the body and blood of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Unworthy partakers at the Lords Table are guilty of the body and blood of Chriſt, be<g ref="char:EOLhyphen"/>cauſe they are guilty of caſting a ſleight and con<g ref="char:EOLhyphen"/>tempt upon the body and blood of Chriſt, which in that ordinance are repreſented unto them, 1 <hi>Cor.</hi> 11. 20, 21, 22, 29.</p>
+               <p>Qu. <hi>How are unworthy partakers ſaid to eate and drink their own damnation or judgment?</hi>
+               </p>
+               <p>
+                  <pb n="25" facs="tcp:100685:15"/>
+                  <hi>Anſ.</hi> Unworthy partakers at the Lords Table are ſaid to eat and drink their own damnation or judgment, becauſe by that ſin of unworthy receiving, they do as certainly draw damnation or judgment upon themſelves if they ſhould not unfeignedly repent of the ſame, as they doe eate and drink of the bread and wine which they there receive, 1 <hi>Cor.</hi> 11. 29.</p>
+               <p>Qu. <hi>Can one that is regenerated or born of God be an unworthy receiver at the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> One that is regenerated cannot properly be called an unworthy receiver, becauſe his per<g ref="char:EOLhyphen"/>ſon is accepted with God through Chriſt: but yet ſuch an one may eate and drink unworthily, and ſo pull Gods diſpleaſure upon himſelf for a time; as thoſe careleſs, unprepared, and forgetfull <hi>Corinthians</hi> did, of whom God ſtruck ſome with ſickneſs, and others with death, 1 <hi>Cor.</hi> 11. 29, 30.</p>
+               <p>Qu. <hi>SEeing there is ſo great</hi> 
+                  <note place="margin">Mr <hi>Chancy</hi>'s <hi>Doctrine of the Sacraments, well ſuiting here with my ſcope and pur<g ref="char:EOLhyphen"/>poſe, gave mee eaſe in the matters following: whoſe ſteps I have trod in; yet ſo, as that I have interwoven ſundry</hi> variations <hi>and</hi> addi<g ref="char:EOLhyphen"/>tions <hi>where I conceived them needfull.</hi>
+                  </note> danger <hi>in unworthy receiving, what ought we to do for prevention</hi> thereof?</p>
+               <p>
+                  <hi>Anſ.</hi> There bee three ſorts of duties to bee per<g ref="char:EOLhyphen"/>formed by us, if we would bee accepted with God for worthy Communicants, and prevent the danger of unworthy receiving.</p>
+               <pb n="26" facs="tcp:100685:16"/>
+               <p>Qu. <hi>Which be th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe three ſorts of duties?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The three ſorts of duties belonging to a communicant are theſe; namely, ſome to be done <hi>before,</hi> ſome <hi>at,</hi> and ſome <hi>after</hi> our receiving the Sacrament of the Lords-ſupper.</p>
+               <p>Qu. <hi>What are the duties to be done by us (through Gods aſſiſtance)</hi> before <hi>our receiving the Sacrament of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The duties that we are to perform <hi>before we</hi> come to the Lords Table, <hi>are two:</hi> namely; Firſt, <hi>thorow examination of our ſelves,</hi> 1 <hi>Cor.</hi> 11. 26. and ſecondly, a right behaviour and holy carri<g ref="char:EOLhyphen"/>age after our ſelf-examination.</p>
+               <p>Q <hi>What do you mean by examination of a mans ſelf?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Self-examination is the calling of a mans ſelf privately to account and queſtion in the ſight of God, that hee may know whether he be duly fit<g ref="char:EOLhyphen"/>ted to partake of that ordinance, or not.</p>
+               <p>Qu. <hi>Is it not enough for a Communicant to exa<g ref="char:EOLhyphen"/>mine himſelf once for all?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> No, for every Chriſtian ſhould very fre<g ref="char:EOLhyphen"/>quently be examining of himſelf, <hi>Pſal.</hi> 4. 4. 2 <hi>Cor.</hi> 13. 5. touching the ſtate and condition of his ſoul, but eſpecially before he comes to the Lords Table; and look how oft ſoever hee intends to come to that Sacrament, ſo often hee is bound ſtrictly to examine and ſift out his own ſpirituall ſtate, before he preſume to preſent himſelf there as a gueſt, 1 <hi>Cor.</hi> 11. 28.</p>
+               <p>Qu. <hi>Wherein conſiſts the thorow examination of our ſelves before receiving?</hi>
+               </p>
+               <p>
+                  <pb n="27" facs="tcp:100685:16"/>
+                  <hi>Anſ.</hi> The thorow examination of our ſelves before receiving conſiſts in two things. Firſt, in generall to examine our ſelves whether wee bee reall and ſound Chriſtians, or hypocrites. Se<g ref="char:EOLhyphen"/>condly, in a more ſpeciall trying of our ſelves, <hi>what ſins</hi> we ſtand guilty of; and whether <hi>thoſe graces</hi> which are requiſite to the right receiving of the Lords ſupper be truly wrought in us, or not?</p>
+               <p>Qu. <hi>How may we diſcern whether wee bee ſound Chriſtians or hypocrites?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> We may diſcern whether wee bee ſound Chriſtians or hypocrites by theſe four notes, <hi>viz.</hi>
+               </p>
+               <p n="1">1 If one that is a true Chriſtian be enticed and drawn away from God, he grieveth for it, <hi>Gen.</hi> 39. 9. <hi>Rom.</hi> 7. 22, 23, 24. 1 <hi>Tim.</hi> 1. 15. and giveth not ready conſent unto the temptation, <hi>Rom.</hi> 7. 19. <hi>Gal.</hi> 5. 17.</p>
+               <p n="2">2 If through frailty hee bee overborn to give conſent to the temptation, yet <hi>it is not full conſent,</hi> but he doth it againſt his will and purpoſe; for his purpoſe is, not to ſin, <hi>Rom.</hi> 7. 15, 19.</p>
+               <p n="3">3 If he do put his ſinfull inclinations into exe<g ref="char:EOLhyphen"/>cution and practiſe, yet hee continueth not long in them, doth not, nor will not walk after them, but recovereth himſelf, becauſe he is incorpora<g ref="char:EOLhyphen"/>ted into Chriſt, and hath the ſeed of true grace in him, 1 <hi>Joh.</hi> 3. 9. <hi>Luke</hi> 22. 61, 62.</p>
+               <p n="4">4 When he does any good thing, his main aim and level is at Gods glory, 1 <hi>Cor.</hi> 10. 31. <hi>Phil.</hi> 1. 20. not at his own profit, honor, or credit, <hi>Mark</hi> 8.
+<pb n="28" facs="tcp:100685:17"/>
+34, 35, 36. <hi>Gal.</hi> 1. 10. But the contrary to theſe four, are the marks and notes of unſound and hypocriticall perſons.</p>
+               <p>Qu. <hi>Now for the</hi> more ſpeciall <hi>trying of our ſelves, how ſhould we examine our ſelves about our ſins?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Wee muſt examine our ſelves about our ſins thus; namely, goe and ſeriouſly look into Gods Law, and ſo call to remembrance how we have offended our God, 1 <hi>Joh.</hi> 3. 4. <hi>Rom.</hi> 7. 7, 9. <hi>Pſal.</hi> 51. 4. given occaſion to the enemies of the Lord to blaſpheme, 2 <hi>Sam.</hi> 12. 14. 2 <hi>Pet.</hi> 2. 2. ſcan<g ref="char:EOLhyphen"/>dalized our brethren, that is to ſay, grieved the ſtronger, <hi>Pſal.</hi> 119. 136. and occaſioned the wea<g ref="char:EOLhyphen"/>ker (1 <hi>Cor.</hi> 8. 10, 11, 12, 13.) chriſtian to ſin by our example. And laſtly, how we have wronged our own ſouls, by ſuffering ſin eaſily to prevaile, and the life, activity, and power of grace to faile and decay in us, <hi>Rev.</hi> 2. 4, 5.</p>
+               <p>Q. <hi>Now in the next place, how ſhall I know which be thoſe</hi> Graces, that are eſpecially requiſite and neceſſary to the right receiving <hi>of the Sacrament of the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The Graces that <hi>are eſpecially</hi> neceſſary to the right-receiving of the Lords-ſupper, are <hi>theſe eight;</hi> namely, 1 Sound knowledge, 1 <hi>Cor.</hi> 11. 29. 2 Saving faith, <hi>Rom.</hi> 4. 11. <hi>Mar.</hi> 16. 16. 3 True repentance for all our ſins, 1 <hi>Cor.</hi> 11. 31. 4 Unfeigned obedience, <hi>Prov.</hi> 9. 5, 6. 5 Entire love to God and man, <hi>Mat.</hi> 5. 25. 1 <hi>Cor.</hi> 12. 13. 6 Ear<g ref="char:EOLhyphen"/>neſt hunger and thirſt after Chriſt, 1 <hi>Joh.</hi> 7. 37.
+<pb n="29" facs="tcp:100685:17"/>
+                  <hi>Luk.</hi> 22. 15. 7 The ſincerity and uprightneſſe of our hearts, 2 <hi>Chron.</hi> 30. 18, 19. 8 Thankfulneſſe to Chriſt, <hi>Mat.</hi> 26. 30.</p>
+               <p>Qu. <hi>But how ſhall I know whether theſe graces are truly wrought in me by the word &amp; ſpirit of God, or not?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> If you would know whether theſe graces are truly wrought in your ſoul, or not, then you muſt examine your ſelf about each particular grace ſeverally; as firſt, about knowledge, then about faith, and ſo of all the reſt in order.</p>
+               <p>Qu. <hi>How may a man examine himſelf about his knowledge ſo, as to be convinced that his knowledge is ſound knowledge?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A man may be convinced that his know<g ref="char:EOLhyphen"/>ledge is ſound, by conſidering the <hi>meaſure</hi> of it, and the properties of it.</p>
+               <p>Qu. <hi>What meaſure of knowledge is required of a Communicant?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Every Communicant muſt in ſome <hi>com<g ref="char:EOLhyphen"/>petent meaſure</hi> know all the principles <hi>(Heb.</hi> 5. 12. <hi>Heb.</hi> 6. 1, 2.) of the doctrine of Chriſt neceſſary to ſalvation. As for example; what is the naturall condition of every man and woman; what is the means of our recovery out of that natural condi<g ref="char:EOLhyphen"/>tion; what is the ſpirituall meaning of the Ten commandements; what is the moſt true meaning of all the Articles of the Chriſtian Faith; what is the nature, uſe, and end of each Sacrament: and the like.</p>
+               <p>Qu. <hi>What are the</hi> properties <hi>of ſound knowledge?</hi>
+               </p>
+               <p>
+                  <pb n="30" facs="tcp:100685:18"/>
+                  <hi>Anſ.</hi> Sound knowledge hath theſe and ſuch like <hi>properties:</hi> 1 It makes a man humble, 1 <hi>Cor.</hi> 3. 18. <hi>Prov.</hi> 26. 16. and ready to render a reaſon of the hope that is in him with all meekneſſe, 1 <hi>Pet.</hi> 3. 15. 2 It makes a Chriſtian willing to re<g ref="char:EOLhyphen"/>ceive every truth diſcovered unto him from the Word of God, 1 <hi>Tim.</hi> 6. 5. and carefull to put in practiſe whatſoever he knows already, 1 <hi>Joh.</hi> 2. 3, 4, 5. 3 It makes us painfull and induſtrious for the increaſing of that knowledge which we have attained, <hi>Prov.</hi> 2. 3, 4. <hi>Hoſ.</hi> 6. 3. And thus we muſt examine our ſelves about our knowledge, ſaying to our own ſouls, <hi>What O my ſoul,</hi> hath God as yet wrought theſe things in thee, or not?</p>
+               <p>Qu. <hi>How may a man examine himſelf about</hi> his faith <hi>ſo, as to know he hath true faith in Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A man may know hee hath <hi>ſaving Faith</hi> by theſe characters of it: 1 <hi>Saving</hi> faith is always wrought and preſerved by the Word of God preached, <hi>Rom.</hi> 10. 14, 17. 1 <hi>Cor.</hi> 1. 21. and is that whereby wee come to be weary and heavie laden with ſins, <hi>Mat.</hi> 11. 28. to bee utterly rid of all confidence in our own righteouſneſſe, <hi>Rom.</hi> 10. 3, 4. and alſo reſtleſſe in hungring after Chriſt, till we find comfort in the promiſes touching the pardon of our ſins, <hi>Mat.</hi> 5. 6. 2 <hi>Saving</hi> faith makes the Chriſtian to look <hi>at ſin</hi> as the <hi>greateſt evill,</hi> and the <hi>grace</hi> of Chriſt as the <hi>greateſt good</hi> in the world, <hi>Heb.</hi> 11. 24, 25, 26, 27. &amp;c. it purifi<g ref="char:EOLhyphen"/>eth the <hi>heart, will, thoughts, affections,</hi> and <hi>conſcience</hi>
+                  <pb n="31" facs="tcp:100685:18"/>
+from all love and allowance of ſinne, <hi>Act.</hi> 15. 9. <hi>Rom.</hi> 7. 15. and ſo works inward ſanctification, <hi>Act.</hi> 26. 18. It wreſtles againſt temptations of unbelief, <hi>Mar.</hi> 9. 24. <hi>Luk.</hi> 22. 31, 32. and works by love to God and our brethren, <hi>Gal.</hi> 5. 6. And by theſe evidences we muſt examine our ſelves whe<g ref="char:EOLhyphen"/>ther we have true faith or not, ſaying to each of our own ſouls, What (O ſoul) art thou thus and thus qualified, or not?</p>
+               <p>Qu. <hi>How may a man examine himſelf about his</hi> Repentance <hi>ſo, as to know that he doth truly repent?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> True Repentance may be known, 1 By our <hi>willingneſſe and gladneſſe</hi> to have any ſin diſco<g ref="char:EOLhyphen"/>vered, <hi>Pſal.</hi> 141. 5. and our hearty love of thoſe that diſcover and reprove it in us, 2 <hi>Sam.</hi> 12. 13. 2 By an inward godly ſorrow for all known ſins, as they are a breach of Gods Commande<g ref="char:EOLhyphen"/>ments, and are diſpleaſing unto God, 2 <hi>Cor.</hi> 7. 10. and by a forſaking of all known ſins, <hi>Ezek.</hi> 18. 5, 6. <hi>&amp;c. Pſal.</hi> 119. 3. out of a perfect hatred of them, <hi>and care to avoid all occaſions of them,</hi> 2 Cor. 7. 11. 3 By an univerſal turning to God, <hi>Deut.</hi> 3. 10. and conſtant cleaving to him in all his revealed wil: and by practiſe of al known duties of obedience, <hi>which obedience, the death of Chriſt ſet forth in the Lords-ſupper, notably provokes a Chriſtian unto.</hi> And thus wee muſt try our <hi>repentance</hi> before wee come to the Lords Table; O my ſoul, doſt thou repent thus?</p>
+               <p>Qu. <hi>How may a man examine himſelf about his</hi>
+                  <pb n="32" facs="tcp:100685:19"/>
+Obedience <hi>ſo, as to know that his obedience is unfeig<g ref="char:EOLhyphen"/>ned obedience?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Unfeigned obedience may be known thus: 1 It is grounded onely on the Word of God, <hi>Eph.</hi> 2. 10. and not on the traditions or inventi<g ref="char:EOLhyphen"/>ons of men, <hi>Mar.</hi> 7. 6, 7. and it hath reſpect unto all Gods commandements without partiality or exception, <hi>Pſal.</hi> 119. 6. 2 Unfeigned obedience aims at the <hi>right end,</hi> namely, <hi>at the praiſe and glory of God, Phil.</hi> 1. 11. and not at any private advan<g ref="char:EOLhyphen"/>tage croſſe thereunto; and it is alwayes accom<g ref="char:EOLhyphen"/>panied with zeal, <hi>Gal.</hi> 4. 18. humility, <hi>Mich.</hi> 6. 8. and conſtancy, <hi>Pſal.</hi> 106. 3. And thus we muſt try our <hi>obedience</hi> before we come to the Lords ſupper: Is it thus with thee, O my ſoul?</p>
+               <p>Qu. <hi>How may a Chriſtian examine himſelf about his</hi> love <hi>ſo, as to know whether</hi> his love to God bee <hi>entire, or not?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> We may be ſure that <hi>our love to God</hi> is en<g ref="char:EOLhyphen"/>tire, if no Commandement of God bee grievous unto us, 1 <hi>Joh.</hi> 5. 3. if our love weanes our hearts from the love of the world, 1 <hi>Joh.</hi> 2. 15. 1 <hi>Joh.</hi> 4. 20, 21. 1 <hi>Joh.</hi> 5. 1. 1 <hi>Joh.</hi> 4. 12. and laſtly, if it make us love the children of God.</p>
+               <p>Qu. <hi>How may a Chriſtian examine himſelf about his love ſo, as to know that he hath entire love to the children of God in ſpeciall?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Entire love to the children of God, makes us love godly men for godlineſſe ſake, 2 <hi>Joh.</hi> 1, 2, verſes; that is, it will make us love all
+<pb n="33" facs="tcp:100685:19"/>
+the Saints, <hi>Eph.</hi> 1. 15. whether rich or poor, ſtran<g ref="char:EOLhyphen"/>gers or kindred, and that conſtantly, <hi>Prov.</hi> 17. 17. Alſo ſuch entire love will communicate it ſelf in doing good to their ſouls and bodies, 1 <hi>Joh.</hi> 3. 17, 18.</p>
+               <p>Q. <hi>How may a Chriſtian examine himſelf about</hi> his love <hi>ſo, as to know that he hath</hi> true love and charity <hi>toward</hi> his neighbor, <hi>that is, to</hi> all men in general?</p>
+               <p>
+                  <hi>Anſ.</hi> True <hi>love toward our neighbor,</hi> or <hi>all men in generall,</hi> may be known thus. 1 It will make us willing to forgive wrongs to others, <hi>Col.</hi> 3. 13. and to ſeek peace, <hi>Rom.</hi> 12. 18. and make ſatisfacti<g ref="char:EOLhyphen"/>on if we have wronged them, <hi>Rom.</hi> 13. 10. 2 True love will cauſe us to love the ſouls of all people, and not to ſuffer ſin to lie upon them, <hi>Lev.</hi> 19. 17. 3 True love to our neighbor will make us to o<g ref="char:EOLhyphen"/>vercome evil with good, <hi>Rom.</hi> 12. 17, 20, 21. by heaping offices of love upon them that wrong us. And thus we muſt examine our ſelves about <hi>our love</hi> before we come to the Sacrament, and ſee whether theſe qualifications of Gods Spirit be wrought in our hearts, or not.</p>
+               <p>Qu. <hi>How may a man examine himſelf about his</hi> hunger <hi>and</hi> thirſt <hi>after Chriſt ſo, as to know that hee hath an earneſt hunger and thirſt after him?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> We may know if we have true <hi>hunger and thirſt</hi> after Chriſt, thus: 1 True hunger and thirſt after Chriſt wil make us ſeek him with all our heart, <hi>in the diligent and conſtant uſe of all the means, Prov.</hi> 13. 4. ſo as that nothing wil ſatisfie us
+<pb n="34" facs="tcp:100685:20"/>
+without Chriſt, <hi>Pſal.</hi> 73. 25. 2 Earneſt hunger &amp; thirſt after <hi>Chriſt,</hi> longs after him for his own ſake, ſo as to part with any thing for him, <hi>Matth.</hi> 13. 44. and to be content to have him upon any conditions, <hi>Phil.</hi> 1. 21. <hi>Phil.</hi> 3. 8. 3 Earneſt hun<g ref="char:EOLhyphen"/>ger and thirſt after Chriſt, makes the ſoul ready <hi>to entertain with great thankfulneſs</hi> whatſoever means or meſſenger ſhall bring Chriſt home unto it, <hi>Rom.</hi> 10. 15. And laſtly, true hunger and thirſt after Chriſt, cauſes the Chriſtian to ſeek after Chriſt <hi>for holineſſe,</hi> Iſa. 51. 1. <hi>as well as for happineſſe:</hi> Now is it thus with my ſoul, or not?</p>
+               <p>Qu. <hi>How may a man examine himſelf about the</hi> ſincerity of his heart <hi>ſo, as to know that he is ſincere and upright in his heart?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A Chriſtian may know that he is ſincere and upright in heart, thus; 1 Sincerity and up<g ref="char:EOLhyphen"/>rightneſs of heart wil ſhew it ſelf in a carefulneſs to reform our delightful and boſom-ſins, <hi>Pſal.</hi> 18. 23. <hi>in an endeavour to find them out,</hi> and a gladneſs when they are diſcovered, <hi>Pſal.</hi> 119. 59. &amp; 141. 5. 2 Sincerity will put us upon ſelf-denyall, and make us part with any outward comfort to keep a good conſcience, <hi>Heb.</hi> 11. 24, 27. 3 Sincerity and uprightneſs will cauſe us to make conſcience of the fruitfull performance of holy duties, <hi>Rom.</hi> 12. 11. eſpecially in ſecret, <hi>Mat.</hi> 6. 6. And laſtly, it will ſtirre up an earneſt deſire of growth unto perfection, <hi>Phil.</hi> 3. 12, 14. Now is it thus with me, or not?</p>
+               <pb n="35" facs="tcp:100685:20"/>
+               <p>Qu. <hi>How may a man examine himſelf about his</hi> thankfulneſs <hi>to Chriſt ſo, as that he may know hee is truly thankfull?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A man may know he is truly thankful to Chriſt, when he eſteemeth Chriſts <hi>(Eph.</hi> 3. 17, 18, 19.) love and benefits, <hi>Phil.</hi> 3. 8. above all others, and ſo deſireth to pleaſe Chriſt (2 <hi>Cor.</hi> 5. 14, 15) in all things. And thus wee ought to examine our ſelves about all theſe particular Graces of Chriſt in us; by asking our conſciences whether it bee thus and thus with our ſouls.</p>
+               <p>Q <hi>WHen a man hath thus examined himſelf, what muſt he</hi> endevor to doe after <hi>ſuch ſelf-exa<g ref="char:EOLhyphen"/>mination, for the finiſhing of his</hi> preparation <hi>to the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. If a man <hi>after examination of himſelf</hi> ſhal <hi>plainly find</hi> any of theſe Graces to be wanting in him, he muſt for the preſent abſtain from the Sacrament, <hi>Exod.</hi> 12. 48. <hi>Num.</hi> 9. 6, 7, &amp;c. 2 If he <hi>doubt</hi> whether they be wrought in him or not, he is likewiſe to forbear comming to the Sacra<g ref="char:EOLhyphen"/>ment, <hi>Mat.</hi> 5, 23, 24. <hi>Rom.</hi> 14. 23. unleſs his con<g ref="char:EOLhyphen"/>ſcience by ſome means may be reſolved and ſetled that he hath them. 3 If he ſhal <hi>truly find,</hi> that God hath wrought them in him, though yet in much weakneſs, then he is to come to this ſacrament to be therby further ſtrengthened, 2 <hi>Chron.</hi> 30. 18, 19.</p>
+               <p>Q <hi>What if a Chriſtian (having for the former reaſons abſtained from the Lords Table) do a long time after</hi>
+                  <pb n="36" facs="tcp:100685:21"/>
+                  <hi>continue in a ſad and ſorrowfull condition, mourning for the want of thoſe forenamed Graces in himſelf; must</hi> he ſtill <hi>forbear to come to the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> No man truly and inwardly mourneth for the want of thoſe Graces, but he that in ſome meaſure hath the truth of them wrought in him<g ref="char:EOLhyphen"/>ſelf by Gods Word and Spirit: and therefore ſpiritual mourners may comfortably, and ſhould readily approach to Chriſt in this Sacrament, 1 <hi>Cor.</hi> 11. 31. as well as in other of his holy ordi<g ref="char:EOLhyphen"/>nances, <hi>Pſ.</hi> 34. 18. <hi>Iſa.</hi> 61. 2, 3. &amp; 66. 2. <hi>Mat.</hi> 11. 28.</p>
+               <p>Qu. <hi>Are there yet any more things required of a communicant,</hi> after his examination of himſelf?</p>
+               <p>
+                  <hi>Anſ.</hi> Yes, after a Chriſtian hath throughly examined himſelf, there be yet <hi>more duties to be practiſed:</hi> For 1 He is carefully with bitterneſs of ſpirit to remember and bewayl to God the manifeſt rebellions of his unregenerate eſtate, <hi>Pſal.</hi> 29. 7. 1 <hi>Tim.</hi> 1. 13. and the wants and weak<g ref="char:EOLhyphen"/>neſſes of his preſent ſtate, <hi>Rom.</hi> 7. throughout. 2 He is to <hi>renew</hi> his <hi>faith</hi> in Chriſt, <hi>Heb.</hi> 11. 28. and his <hi>repentance</hi> for all known ſins, eſpecially committed ſince his former receiving. 3 He is to <hi>renew</hi> and ſtir up his <hi>deſires</hi> and <hi>thirſtings</hi> after Chriſt in the Sacrament, and <hi>his love to God and man.</hi> 4 He is to <hi>renew</hi> his <hi>reſolution and purpoſes</hi> of better obedience to God (in the duties both of the firſt and ſecond Table of the Law) for the time to come, <hi>Iſa.</hi> 1. 16, 17, 18. through the help of Chriſt. And laſtly, he is to renew his <hi>thank<g ref="char:EOLhyphen"/>fulneſſe</hi>
+                  <pb n="37" facs="tcp:100685:21"/>
+to God. All theſe a Chriſtian muſt endeavour to do, becauſe it <hi>is not the bare having of grace,</hi> but <hi>the preſent exerciſe therof that makes us worthy receivers in Gods account,</hi> 1 Cor. 1. 4, 5, 7. compared with 1 <hi>Cor.</hi> 11. 18, 21, 29.</p>
+               <p>Qu. <hi>How muſt a communicant</hi> renew <hi>his</hi> faith <hi>in Chriſt before he comes to the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A Communicant muſt labor to <hi>renew</hi> his <hi>ſaith</hi> in Chriſt, thus; 1 He muſt <hi>go to God in</hi> the name of Chriſt to ſue out a new pardon of his ſins, 2 <hi>Chron.</hi> 30. 6. eſpecially of ſuch ſins as moſt trou<g ref="char:EOLhyphen"/>ble the peace of his conſcience, and preſſe the pro<g ref="char:EOLhyphen"/>miſes that concern the ſacrament, 1 <hi>Cor.</hi> 11. 24 and the death of Chriſt, 1 <hi>Joh.</hi> 1. 7. 2 He muſt ſtrive by <hi>Prayer</hi> and <hi>meditation</hi> againſt <hi>carnall reaſon, Joh.</hi> 6. 52, 58. the greateſt enemy of faith; and alſo hee muſt bewayl his unbelief, <hi>Mar.</hi> 9. 24. and ponder and weigh well the nature of the Sacrament; as namely, That the Sacrament is as Gods oath to ſe<g ref="char:EOLhyphen"/>cure his promiſes unto us, <hi>Heb.</hi> 6. 16, 17. and a pledge and ſeal of the righteouſneſs of faith, <hi>Rom.</hi> 4. 11. 3. And laſtly, he muſt conſider that God commands us to receive and enjoy the merits of Chriſts death offered to us in this Sacrament, 1 <hi>Cor.</hi> 11. 24. and therefore he muſt raiſe up his faith to take hold of Chriſt.</p>
+               <p>Qu. <hi>How muſt a Communicant</hi> renew <hi>his</hi> repen<g ref="char:EOLhyphen"/>tance <hi>before he comes to the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſ. In renewing his repentance</hi> a communicant muſt take this courſe. 1 Strictly to call to mind
+<pb n="38" facs="tcp:100685:22"/>
+his particular ſins as near as poſſibly he can, eſpeci<g ref="char:EOLhyphen"/>ally ſins moſt lately committed, 1 <hi>Cor.</hi> 11. 31. (ei<g ref="char:EOLhyphen"/>ther by not-doing the good he ought and might have done, or by doing the evill he ought not to have done) and by the ſerious conſideration of ſuch ſins with all the circumſtances and aggravati<g ref="char:EOLhyphen"/>ons thereof, he is to renew a more bitter ſorrow for them, <hi>Lam.</hi> 3. 40. 2 He muſt renew his <hi>free and humble confeſſion</hi> of each <hi>particular ſin,</hi> 1 <hi>Sam.</hi> 7. 6. as near as he can, judge himſelf for them, <hi>and lift up fervent prayers</hi> for the pardon of them, <hi>Pſal.</hi> 5. 1, 2. and for ſtrength and power againſt them; and this wil ſhew that he ſtands <hi>not wel-affected</hi> towards his ſins. 3 In caſe that he hath wronged any one, he muſt make reſtitution and ſatisfaction to the utter<g ref="char:EOLhyphen"/>moſt of his power, <hi>Luk.</hi> 19. 8. and muſt reſolve fully by Gods grace to leave all <hi>ſins, and avoid the occaſions thereof,</hi> giving up himſelf to newneſs of life, and to the frequent, conſtant and conſcionable uſe of all good means, with the improvement of all holy opportunities conducing to that newneſs of life, <hi>Pſal.</hi> 1. 1, 2.</p>
+               <p>Qu. <hi>How must a communicant</hi> renew <hi>his ſpiritual</hi> deſires <hi>and</hi> thirſt <hi>after Chriſt before each Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> He that would <hi>renew</hi> his <hi>deſire</hi> and <hi>thirſt</hi> af<g ref="char:EOLhyphen"/>ter Chriſt, muſt follow this courſe. 1 He muſt acquaint himſelf throughly with his own ſpiritual wants and emptineſs, <hi>Prov.</hi> 27. 7. and take heed of a preſumptuous imagination of more grace then yet he hath attained unto, <hi>Rev.</hi> 3. 16, 17. 2 He
+<pb n="39" facs="tcp:100685:22"/>
+muſt take a thorow view of the wonderfull excel<g ref="char:EOLhyphen"/>lency and fulneſs that is in Chriſt, <hi>Job.</hi> 4. 10. <hi>Col.</hi> 1. 19. and the promiſes, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pet.</hi> 1. 4. as alſo a view of the worth of Gods favor and loving kindneſs which is better then life it ſelf, <hi>Pſal.</hi> 63. 3. 3 He muſt have a thorow view of his own utter inſuffi<g ref="char:EOLhyphen"/>ciency to bring his heart to any true hunger and thirſt after theſe things, <hi>Phil.</hi> 2. 13.</p>
+               <p>Qu. <hi>But how ſhall a Christian be ſenſible of his own ſpirituall wants, and the decay of the power and activity of grace in his ſoul?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A Chriſtian may come to be ſenſible of his own ſpirituall wants and decays of grace, by the conſideration of his daily ſlips and ſins of thought word and deed, either againſt Gods <hi>precepts</hi> or <hi>pro<g ref="char:EOLhyphen"/>hibitions.</hi> As for inſtance, my diſtruſt lets me ſee my weakneſs of faith; and my omiſſion of, and ſloathfulneſs in holy duties, lets me ſee my want of love and zeal towards God and Chriſt: And ſo of the reſt. Hereupon now, a Chriſtian muſt ap<g ref="char:EOLhyphen"/>ply the ſeal of the Covenant for an aſſurance to himſelf, that as all, ſo eſpecially theſe and theſe particular wants ſhal be ſupplyed from Chriſts ful<g ref="char:EOLhyphen"/>neſs, <hi>Job.</hi> 1. 16. <hi>Pſal.</hi> 1. 3. <hi>Jam.</hi> 4. 6.</p>
+               <p>Qu. <hi>How muſt a Communicant</hi> renew <hi>his</hi> love <hi>be<g ref="char:EOLhyphen"/>fore he comes to the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A Communicant muſt <hi>renew his love</hi> before he comes to the Lords Table, thus: 1 He muſt ſtrive to get his heart inflamed with love to God, 2 <hi>Cor.</hi> 5. 14. and Man, 1 <hi>Joh.</hi> 4. 11. by a due conſide<g ref="char:EOLhyphen"/>tion
+<pb n="40" facs="tcp:100685:23"/>
+and deep ſenſe of Gods free and great love to him in Jeſus Chriſt; and by conſidering alſo that eating and drinking together at the Lords Table, is a <hi>teſtification</hi> of that <hi>ſweet love</hi> which is and muſt be among Chriſtians one towards another, 1 <hi>Cor.</hi> 12, 13. 2 If any man have wronged him, he muſt <hi>forgive injuries</hi> freely, <hi>Epheſ.</hi> 4. 26. and if he hath gi<g ref="char:EOLhyphen"/>ven any juſt occaſion of offence to others, he muſt ſeek <hi>reconciliation</hi> with them, <hi>Mat.</hi> 5. 24, 25. <hi>Rom.</hi> 12. 18.</p>
+               <p>Q. <hi>How muſt a Communicant</hi> renew <hi>his</hi> reſolution of better obedience <hi>before he comes to the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A Communicant is to <hi>renew</hi> his <hi>reſolution</hi> of <hi>better obedience,</hi> thus; namely, in an humble acknow<g ref="char:EOLhyphen"/>ledgment of his own weakneſs, <hi>Pſal.</hi> 119. 106. he muſt <hi>reſolve</hi> (through Gods grace) without all fur<g ref="char:EOLhyphen"/>ther delay, <hi>Pſal.</hi> 119. 60. to walk in new obedience: and to this end he muſt earneſtly <hi>crave ſtrength from God,</hi> and <hi>intreat</hi> that he would enable him there<g ref="char:EOLhyphen"/>unto, <hi>Pſal.</hi> 119. 117.</p>
+               <p>Qu. <hi>How must a Communicant</hi> renew <hi>his</hi> thank<g ref="char:EOLhyphen"/>fulnes to God and Chriſt, <hi>before he comes to the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> A Communicant before he comes to the Lords table, <hi>muſt renew his thankfulnes</hi> to God, thus: 1 He muſt ſeriouſly conſider that though he has broken Covenant with God oftentimes, and in ſpeciall ſince the laſt Sacrament, yet the Lord now <hi>graciouſly offers</hi> to confirm the Covenant of Free-grace to <hi>him anew</hi> in this next Sacrament. 2 He
+<pb n="41" facs="tcp:100685:23"/>
+muſt alſo take notice, that if there be but the leaſt ſpark of ſaving grace in him, the Lord will not quench, <hi>Iſa.</hi> 42. 3. but nouriſh it; and for that end invites him to come to the holy feaſt of <hi>his Sons</hi> fleſh and blood. 3 He muſt alſo remember, that if he hath <hi>throughly endevored,</hi> 2 <hi>Cor.</hi> 8. 12. to <hi>examine</hi> and <hi>prepare</hi> himſelf for that ordinance, he ſhal find acceptance with God through Chriſt, and the Lord will look upon him as a worthy gueſt at his Table, 1 <hi>Cor.</hi> 11. 28. Now all theſe <hi>three indulgen<g ref="char:EOLhyphen"/>ces</hi> from God, call for preſent thankfulneſs from the beleeving ſoul.</p>
+               <p>Qu. <hi>Beſides</hi> ſelf-examination <hi>and the</hi> renewed exerciſe of the forenamed graces: <hi>and alſo beſides</hi> Prayer, <hi>ſo often</hi> mentioned before; <hi>had we not need yet</hi> more eſpecially <hi>to ſeek God</hi> by earneſt Prayer <hi>be<g ref="char:EOLhyphen"/>fore we come to the Lords Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Yes, as a Chriſtian muſt pray earneſtly to God for <hi>many particulars hinted before;</hi> ſo in ſpeciall he muſt alſo pray that God would pleaſe <hi>further</hi> to fit him by his Spirit, <hi>Phil.</hi> 4. 6. <hi>Pſal.</hi> 19. 14. for a meet partaking of this ſacrament, and alſo accept of him (through <hi>Jeſus Chriſt)</hi> as a worthy receiver, though in himſelf moſt unworthy. And the reaſon of al is, becauſe God wil be ſought unto, even to doe thoſe very things which he hath already promiſed to do for his people, <hi>Ezek.</hi> 36. 37.</p>
+               <p>Thus far of the Duties before Receiving.</p>
+               <p>Qu <hi>WHat are the duties required of a Chriſtian</hi> At <hi>and</hi> In <hi>the time of receiving the Lords-ſupper?</hi>
+               </p>
+               <p>
+                  <pb n="42" facs="tcp:100685:24"/>
+                  <hi>Anſ.</hi> The duties required <hi>at</hi> and <hi>in</hi> the time of our receiving are theſe: 1 Every communicant is to give diligent <hi>attention</hi> to that which is <hi>publick<g ref="char:EOLhyphen"/>ly done,</hi> not onely when he himſelf is to receive, but during the whole action, 1 <hi>Cor.</hi> 14. 16. to <hi>behold</hi> and look upon both the <hi>elements</hi> themſelves, <hi>Exod.</hi> 24 8. and all the <hi>Sacramentall actions,</hi> 1 <hi>Cor.</hi> 11. 23. <hi>&amp;c.</hi> in the adminiſtration of the Sacrament, 1 <hi>Cor.</hi> 14. 40. 2 He muſt uſe ſuch <hi>reverent behaviour</hi> as may be <hi>free from ſuper ſtition,</hi> yet fit to ſtirre up and expreſſe in<g ref="char:EOLhyphen"/>ward faith and thankfulneſs, 1 <hi>Cor.</hi> 14. 40.</p>
+               <p>Q. <hi>What muſt be the</hi> meditation <hi>and</hi> diſpoſition <hi>of our hearts in tune of receiving the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Our meditation and <hi>diſpoſition of heart</hi> at, and in the time of our receiving, muſt be this: 1 When we ſee the Bread and Wine conſecrated and ſet apart for this holy uſe, then we muſt call to mind and conſider the eternal love of <hi>God the Father</hi> in ſanctifying &amp; ſetting apart his Son Jeſus Chriſt in his ſecret counſell, to be the <hi>Redeemer and Surety</hi> of his people, <hi>Joh.</hi> 10. 36. and the tender mercy of <hi>Chriſt</hi> in undertaking this hard ſervice for us, <hi>Heb.</hi> 7. 26. <hi>Heb.</hi> 10. 9. 2 When we ſee the Bread <hi>broken,</hi> and the wine <hi>powred out,</hi> we are to mourn over him whom we have pierced by our ſins, <hi>Zech.</hi> 12. 12. and remember the infinite <hi>juſtice and wrath</hi> of God a<g ref="char:EOLhyphen"/>gainſt ſin, that could never be ſatisfied but by this means, <hi>Rom.</hi> 3. 25. 3 When we ſee the Bread and wine <hi>given unto us al</hi> by the Miniſter; we are to me<g ref="char:EOLhyphen"/>ditate upon the <hi>gift and application</hi> of Chriſt cruci<g ref="char:EOLhyphen"/>fied
+<pb n="43" facs="tcp:100685:24"/>
+to our own ſouls in particular, and to every be<g ref="char:EOLhyphen"/>leeving receiver els, <hi>Gal.</hi> 2. 20. 4 When <hi>we take</hi> the Bread and Wine, we muſt ſtir up our ſelves <hi>by faith to lay hold</hi> upon and <hi>apply</hi> to our ſelves all the merits of Chriſts death, 1 <hi>Cor.</hi> 11. 24. and ſo <hi>joyfully</hi> to feed thereupon, <hi>by beleeving, that as ſure as bread and wine will nouriſh the body up in a naturall life, ſo ſure will the fleſh and blood of Jeſus Chriſt,</hi> fed upon by faith, <hi>nouriſh our ſouls unto eternall life, and will alſo ſatisfie our ſouls,</hi> Matth. 11. 29. <hi>and ſtrengthen them a<g ref="char:EOLhyphen"/>gainſt all temptations here in this world,</hi> 1 Cor. 10. 16. Joh. 6. 35. 5 When we behold the reſt of the Congregation communicating with us, we are then to ſtir up our hearts to loving and kind affe<g ref="char:EOLhyphen"/>ctions towards them and all the people of God, 1 <hi>Cor.</hi> 10. 17.</p>
+               <p>Qu. <hi>WHat is that</hi> holy carriage <hi>that is required</hi> after <hi>receiving the Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. <hi>Immediately after</hi> receiving, a Chriſtian, in token of thankfulneſs for his receiving ſuch in<g ref="char:EOLhyphen"/>ward pledges of love from God, muſt offer up the ſacrifice <hi>of praiſe,</hi> 1 <hi>Theſſ.</hi> 5. 18. to the Lord, and cheerfully <hi>give alms,</hi> 1 <hi>Cor.</hi> 16. 2. <hi>Heb.</hi> 13. 16. for the relief of the poor members of Chriſt. 2 <hi>At other times after receiving,</hi> he muſt often <hi>try himſelf</hi> whe<g ref="char:EOLhyphen"/>ther he hath been made <hi>to drink into one ſpirit</hi> with Chriſt and his members or not, 1 <hi>Cor.</hi> 12. 13. and what <hi>growth</hi> he hath gotten by the Sacrament <hi>in aſſurance of Gods favor,</hi> in <hi>ſtrength</hi> againſt corrupti<g ref="char:EOLhyphen"/>ons,
+<pb n="44" facs="tcp:100685:25"/>
+in <hi>power to walk with</hi> God in obedience to him, and <hi>in all other graces</hi> of the Spirit, and <hi>fruits</hi> of Chriſts death. 3 If the Chriſtian after recei<g ref="char:EOLhyphen"/>ving <hi>cannot find theſe fruits in</hi> himſelf, he muſt <hi>humble himſelf for his</hi> own ſinnes, as the cauſe thereof, 1 <hi>Cor.</hi> 11. 31. and though <hi>he finds not that comfort</hi> and benefit he looks for, yet if <hi>he be truly humbled for the want of it,</hi> he may be comforted in this as a fruit of a worthy receiving, 2 <hi>Chron.</hi> 30. 18, 19. 4 If he ſhall find upon <hi>this after-exa<g ref="char:EOLhyphen"/>mination,</hi> the forenamed benefits truly wrought in his heart, then he is moſt thankfully <hi>to give God the glory,</hi> and to deſire the <hi>continuance</hi> and <hi>increaſe</hi> of the ſame grace with all holy <hi>endevors</hi> to that end, 1 <hi>Chron.</hi> 29. 13, 14, 18, verſes: and as he hath re<g ref="char:EOLhyphen"/>ceived Jeſus Chriſt, ſo he is to walk in him, <hi>Col.</hi> 2. 6, 7. 2 <hi>Pet.</hi> 2. 20, 21, 22. and not to return to his former evil practiſes, but to keep the <hi>Covenant</hi> that he hath <hi>renewed</hi> with the <hi>Lord at the Sacrament,</hi> and to increaſe in love and fellowſhip with Gods children, 1 <hi>Cor.</hi> 10. 16, 17. 5 And laſtly, a Chriſtian, upon the ſenſe of the comfort and be<g ref="char:EOLhyphen"/>nefit received at the Sacrament, <hi>is to reſort the oftner</hi> and with the <hi>more earneſt deſire</hi> unto it, 2 <hi>Chron.</hi> 30. 21, &amp; 23 verſes.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:100685:25"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
